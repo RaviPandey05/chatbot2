@@ -1,0 +1,12 @@
+# Chatbot Platform Documentation
+
+## Project Structure 
+
+## File Upload Specifications
+
+### Supported File Types
+- PDF (.pdf)
+- Text (.txt)
+- Word (.docx)
+
+### MIME Types 

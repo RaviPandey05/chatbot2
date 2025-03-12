@@ -1,0 +1,21 @@
+chatbot_platform/
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── database.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   └── chatbot.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── chatbot.py
+│   │   └── document_processor.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+├── frontend/
+│   └── streamlit_app.py
+├── requirements.txt
+└── README.md 
